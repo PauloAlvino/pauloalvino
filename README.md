@@ -82,7 +82,6 @@ Durante meus estudos, venho me dedicando ao aprendizado de linguagens de program
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
----
 
 ### 📫 Contato
 
