@@ -68,6 +68,7 @@ Durante meus estudos, venho me dedicando ao aprendizado de linguagens de program
     src="https://github-readme-stats.vercel.app/api?username=PauloAlvino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     <img 
+      style= "margin-top: 10px"
       height="160em" 
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloAlvino&layout=compact&langs_count=6&theme=tokyonight&custom_title=Linguagens%20mais%20usadas"
     />
