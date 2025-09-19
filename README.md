@@ -86,5 +86,3 @@ Durante meus estudos, venho me dedicando ao aprendizado de linguagens de program
 ### 📫 Contato
 
 - Email: **pr243140@gmail.com**
-- LinkedIn: [Paulo Ricardo](www.linkedin.com/in/paulo-alvino)
-- GitHub: [PauloAlvino](https://github.com/PauloAlvino)
